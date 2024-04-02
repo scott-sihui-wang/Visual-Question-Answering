@@ -4,7 +4,7 @@
 
 ### 1.1 Background and Motivation
 
-Reasoning about everyday visual input is one of the most fundamental building blocks of human intelligence. `Visual Question Answering` (VQA) is a rapidly evolving field which witnesses many achievements, however, it is unclear if the models get good performance on certain dataset because of true reasoning abilities or just overfitting to biases in the datasets.
+Reasoning about everyday visual input is one of the most fundamental building blocks of human intelligence. `Visual Question Answering` (VQA) is a rapidly evolving field which witnesses many achievements, however, it is unclear if the models get good performance on certain datasets because of true reasoning abilities or just overfitting to biases in the datasets.
 
 ### 1.2 Tasks of the Project
 
