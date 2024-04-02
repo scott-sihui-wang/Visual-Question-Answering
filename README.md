@@ -21,6 +21,16 @@ In this project, my main work includes:
 
 ## 2. Results
 
+Most of mistakes that `PG+EE` made can be categorized into 2 types.
+
+**Type I:** the answers are not relevant to the questions.
+
+![irrelevant](irrelevant.png)
+
+**Type II:** the answers include some objects/attributes that are not shown in the picture.
+
+![unseen](unseen.png)
+
 ## 3. Acknowledgement
 
 We acknowledge the use of codes from [PG+EE](https://github.com/facebookresearch/clevr-iep) and [NS-VQA](https://github.com/kexinyi/ns-vqa).
