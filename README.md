@@ -2,6 +2,10 @@
 
 ## 1. Introduction
 
+**Topics:** _Visual Question Answering_, _Grounded Natural Language Processing_
+
+**Skills:** _Pytorch_, _Python_, _Deep Neural Networks_
+
 ## 2. Results
 
 ## 3. Acknowledgement
