@@ -6,4 +6,4 @@
 
 ## 3. Acknowledgement
 
-We acknowledge the use of codes from [](https://github.com/facebookresearch/clevr-iep) and [NS-VQA](https://github.com/kexinyi/ns-vqa).
+We acknowledge the use of codes from [PG+EE](https://github.com/facebookresearch/clevr-iep) and [NS-VQA](https://github.com/kexinyi/ns-vqa).
