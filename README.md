@@ -21,6 +21,10 @@ In this project, my main work includes:
 
 ## 2. Results
 
+Accuracy of different `VQA` models:
+
+![comparison](comparison.png)
+
 Most of mistakes that `PG+EE` made can be categorized into 2 types.
 
 **Type I:** the answers are not relevant to the questions.
