@@ -10,7 +10,10 @@ Reasoning about everyday visual input is one of the most fundamental building bl
 
 ### 1.2 Tasks of the Project
 
+In this project, my main work includes:
 
+- Make performance comparison between `PG+EE` approach and `NS-VQA` approach.
+- Analysis the failing cases for `PG+EE` approach.
 
 **Topics:** _Visual Question Answering_, _Grounded Natural Language Processing_
 
