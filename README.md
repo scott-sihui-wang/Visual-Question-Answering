@@ -2,6 +2,14 @@
 
 ## 1. Introduction
 
+### 1.1 Background and Motivation
+
+Reasoning about everyday visual input is one of the most fundamental building blocks of human intelligence. `Visual Question Answering` (VQA) is a rapidly evolving field which witnesses many achievements, however, it is unclear 
+
+### 1.2 Tasks of the Project
+
+
+
 **Topics:** _Visual Question Answering_, _Grounded Natural Language Processing_
 
 **Skills:** _Pytorch_, _Python_, _Deep Neural Networks_
