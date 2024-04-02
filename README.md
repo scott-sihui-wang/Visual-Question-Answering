@@ -2,6 +2,8 @@
 
 ## 1. Introduction
 
+For an overview of this project, please refer to my [presentation](FinalPresentation.pdf). For more technical details, please refer to the [report](CMPT_983_Final_Report.pdf).
+
 ### 1.1 Background and Motivation
 
 Reasoning about everyday visual input is one of the most fundamental building blocks of human intelligence. `Visual Question Answering` (VQA) is a rapidly evolving field which witnesses many achievements, however, it is unclear if the models get good performance on certain datasets because of true reasoning abilities or just overfitting to biases in the datasets.
