@@ -1,0 +1,33 @@
+log:
+
+try to upload to google drive and use colab to run the code: unsuccessful
+
+IEP VAL_DATASET:
+
+Quantitative:
+
+149991 samples
+142774 / 149991 = 95.19% correct
+
+Qualitative: prog_18k ee_18k
+first 500 samples,
+find incorrect answers
+
+CNN_LSTM
+Quantitative
+81280/149991 = 54.19 % correct
+
+CNN_LSTM_SA
+Quantitative
+104212/149991 = 69.48 %
+
+CNN_LSTM_SA_MLP
+Quantitative
+109721/149991 = 73.15 %
+
+PG+EE 9k 88.34 %
+
+PG+EE 700k 96.92 %
+
+
+Try Quantitative FiLM
